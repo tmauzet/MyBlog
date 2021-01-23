@@ -1,1 +1,2 @@
-blog.tmauzet.me
+MyBlog - blog.tmauzet.me
+---------------------------
